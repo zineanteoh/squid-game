@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Guideline for interacting: 
+- Keep things concise, simple. 
+- Minimize bloat whenever possible.
+- Ensure that the solution satisfies what I want
+- Before implementing ANYTHING, check with me what your approach is. This is to minimize back and forths.
+- Before making changes, look at the rest of the codebase to ensure you do not miss out any important context
+- If you notice obvious optimizations or unnecessary approaches, you should clean things up.
