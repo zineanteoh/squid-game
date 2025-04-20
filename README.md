@@ -1,10 +1,9 @@
 ## Squid Game
 
-This entire repository is coded by AI. I wrote 0 lines of code.
-
-Time: 2 hours.
-
-Every week, [@kohrachel](https://github.com/kohrachel/) and I give ourselves an hour to create a goofy project solely with AI. No human coding, any idea you can think of.
+<pre align="center">
+🌀 Part of the Vibe Coding Series
+A weekly challenge to build something weird using only AI in 1 hour.
+</pre>
 
 ### About The Project
 
