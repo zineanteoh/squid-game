@@ -1,9 +1,9 @@
 ## Squid Game
 
-<pre align="center">
-🌀 Part of the Vibe Coding Series
-A weekly challenge to build something weird using only AI in 1 hour.
-</pre>
+<p align="center">
+  <strong>🌀 <a href="https://github.com/zineanteoh/vibe-coding">Part of the Vibe Coding Series</a></strong><br>
+  <em>A weekly challenge to build something weird using only AI in 1 hour.</em>
+</p>
 
 ### About The Project
 
